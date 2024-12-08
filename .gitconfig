@@ -1,0 +1,9 @@
+[user]
+	name = Jake
+	email = jakejoshuabpenalosa@iskolarngbayan.pup.edu.ph
+[push]
+	default = matching
+[alias]
+	co = checkout
+[core]
+	editor = code --wait
